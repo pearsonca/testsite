@@ -3,8 +3,6 @@ baseurl: ''
 markdown: kramdown
 markdown_ext: md
 source: src
-exclude:
- - src/
 collections:
   my_test:
     output: true
