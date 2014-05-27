@@ -2,7 +2,6 @@ absoluteurl: http://stdio-ghana.github.io
 baseurl: ''
 markdown: kramdown
 markdown_ext: md
-source: src
 collections:
   my_test:
     output: true
